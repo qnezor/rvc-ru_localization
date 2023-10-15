@@ -8,4 +8,4 @@
 
 
 ## Послесловие
-Перевод протестирован на [RVC v2](https://docs.google.com/document/d/1KKKE7hoyGXMw-Lg0JWx16R8xz3OfxADjwEYJTqzDO1k). Совместимость с другими версиями RVC не гарантируется.
+Перевод протестирован на старой версии RVC. Совместимость с версиями [Mangio RVC](https://github.com/Mangio621/Mangio-RVC-Fork) не гарантируется.
